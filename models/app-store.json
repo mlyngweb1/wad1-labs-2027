@@ -1,0 +1,21 @@
+{
+  "info": {
+    "appTitle": "Playlist Maker",
+    "version": 0.2,
+    "creators": [
+      {
+        "fullname": "Stevie Feliciano",
+        "job": "Web Developer"
+      },
+      {
+        "fullname":"Helen Hess",
+        "job":"Web Developer"
+      },
+      {
+        "fullname":"Jenny Howe",
+        "job":"UX Designer"
+       }
+    ],
+    "location": "Waterford"
+  } 
+}
