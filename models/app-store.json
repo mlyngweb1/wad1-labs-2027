@@ -4,18 +4,28 @@
     "version": 0.2,
     "creators": [
       {
+        "name": "Stevie",
         "fullname": "Stevie Feliciano",
+        "image": "images/stevie.jpg",
+        "joined": 2022,
         "job": "Web Developer"
       },
       {
+        "name":"Helen",
         "fullname":"Helen Hess",
+        "image":"images/helen.jpg",
+        "joined":2023,
         "job":"Web Developer"
       },
       {
+        "name":"Jenny",
         "fullname":"Jenny Howe",
+        "image":"images/jenny.jpg",
+        "joined":2021,
         "job":"UX Designer"
        }
     ],
     "location": "Waterford"
-  } 
+  }
 }
+
